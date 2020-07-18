@@ -1,0 +1,23 @@
+{
+  "name": "lab-discord-bots-one-token",
+  "version": "0.1.0",
+  "description": "An experiment where I test to use multiple bot on the same token",
+  "main": "src/index.mjs",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lightdiscord/lab-discord-bots-one-token.git"
+  },
+  "author": "Arnaud Pascal <root@arnaud.sh>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lightdiscord/lab-discord-bots-one-token/issues"
+  },
+  "homepage": "https://github.com/lightdiscord/lab-discord-bots-one-token#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
